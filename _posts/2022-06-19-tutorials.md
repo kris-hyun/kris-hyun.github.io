@@ -1,4 +1,6 @@
 # How to create a blog
 
-{% link https://jekyllrb.com/docs/posts/ %}
-{% link https://typora.io/ %}
+https://jekyllrb.com/docs/posts/
+
+https://typora.io/
+
