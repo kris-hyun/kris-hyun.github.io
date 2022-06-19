@@ -1,6 +1,6 @@
 # How to create a blog
 
-https://jekyllrb.com/docs/posts/
+url: https://jekyllrb.com/docs/posts/
 
-https://typora.io/
+url: https://typora.io/
 
